@@ -1,0 +1,26 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+    <title>404_微博段子</title>
+    <link href="/css/ui.css" rel="stylesheet" type="text/css" />
+    <link href="/css/style.css" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+        h1{ line-height:26px;}
+        #wrap{position:absolute;width:600px;margin-left:-300px;left:50%;overflow:hidden; margin-top:60px;}
+        .logo{width:100%; height:auto; float:left; border-bottom:#4B8DF8 solid 3px;padding-bottom:4px; line-height:normal;}
+        .info{ width:100%; height:auto; float:right; margin-top:20px;}
+        .info h1{ font-size:32px; color:red; line-height:32px; padding-bottom:3px; text-indent:2px;}
+    </style>
+</head>
+<body>
+<div id="wrap"><!--居中-->
+<div class="logo"><a href="/"><img src="/images/logo.png" alt="微博段子" width="181" height="25"/></a></div>
+<div class="info">
+<h1>404</h1>
+<p>这里没有段子，想看点别的？现在还太早了吧！！^_^</p>
+<div class="buttons" style="margin-top:12px;"><button class="action blue" onClick="window.location.href='/'"><span class="label">首页……</span></button></div>
+</div>
+</div><!--end 居中-->
+</body>
+</html>

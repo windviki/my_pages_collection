@@ -1,0 +1,24 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Acfun - 匿名讨论版</title>
+    <meta name="keywords" content="Acfun,匿名,讨论版,动漫,揭示板,游戏,动画,漫画,轻小说,新番,cosplay" />
+    <meta name="description" content="这里是Acfun匿名讨论版，以宅文化为主题并且似Futaba贴图风格，在这里不需要进行注册便可以尽情发文!" />
+       <link id="Link1" rel="shortcut icon" href="~/favicon.ico" type="image/x-icon"></link>
+    <link id="Link2" rel="icon" href="~/favicon.ico" type="image/ico"></link>
+    <style type="text/css">
+        *
+        {
+            margin: 0px;
+            padding: 0px;
+        }
+    </style>
+</head>
+<frameset cols="145,*">
+    <frame src="Menu.aspx" name="menu" />
+    <frame src="Main.htm" name="cont" />
+    </frameset>
+</html>
